@@ -1,0 +1,10 @@
+{
+    "extends":["react-app", "eslint-config-prettier"],
+    "rules": {
+      "strict": ["error", "never"]
+    },
+    "env": {
+      "browser": true,
+      "node": true
+    }
+  }
